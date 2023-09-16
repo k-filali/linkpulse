@@ -1,0 +1,251 @@
+[
+  {
+    "_id": {
+      "$oid": "64e6a53e3222900ebe9d77ef"
+    },
+    "domain": "example.com",
+    "dailyTraffic": [
+      {
+        "date": "2023-08-31T00:00:00Z",
+        "countryData": [
+          {
+            "country": "US",
+            "value": 42
+          },
+          {
+            "country": "CA",
+            "value": 79
+          }
+        ],
+        "sourceData": [
+          {
+            "name": "Organic",
+            "value": 68
+          },
+          {
+            "name": "Social",
+            "value": 12
+          },
+          {
+            "name": "Direct",
+            "value": 53
+          }
+        ],
+        "pageData": [
+          {
+            "name": "/home",
+            "value": 88
+          },
+          {
+            "name": "/product",
+            "value": 7
+          }
+        ],
+        "deviceData": [
+          {
+            "name": "Desktop",
+            "value": 61
+          },
+          {
+            "name": "Mobile",
+            "value": 29
+          }
+        ],
+        "hourlyTraffic": [
+          {
+            "hour": "00:00",
+            "uniqueVisitors": 37,
+            "visits": 86,
+            "pageViews": 4,
+            "bounceVisit": 77,
+            "visitDuration": 53
+          },
+          {
+            "hour": "01:00",
+            "uniqueVisitors": 20,
+            "visits": 90,
+            "pageViews": 60,
+            "bounceVisit": 44,
+            "visitDuration": 13
+          },
+          {
+            "hour": "02:00",
+            "uniqueVisitors": 68,
+            "visits": 3,
+            "pageViews": 99,
+            "bounceVisit": 71,
+            "visitDuration": 80
+          },
+          {
+            "hour": "03:00",
+            "uniqueVisitors": 100,
+            "visits": 29,
+            "pageViews": 56,
+            "bounceVisit": 2,
+            "visitDuration": 51
+          },
+          {
+            "hour": "04:00",
+            "uniqueVisitors": 32,
+            "visits": 17,
+            "pageViews": 87,
+            "bounceVisit": 94,
+            "visitDuration": 75
+          },
+          {
+            "hour": "05:00",
+            "uniqueVisitors": 52,
+            "visits": 85,
+            "pageViews": 69,
+            "bounceVisit": 26,
+            "visitDuration": 22
+          },
+          {
+            "hour": "06:00",
+            "uniqueVisitors": 32,
+            "visits": 84,
+            "pageViews": 40,
+            "bounceVisit": 19,
+            "visitDuration": 37
+          },
+          {
+            "hour": "07:00",
+            "uniqueVisitors": 81,
+            "visits": 79,
+            "pageViews": 9,
+            "bounceVisit": 29,
+            "visitDuration": 41
+          },
+          {
+            "hour": "08:00",
+            "uniqueVisitors": 41,
+            "visits": 5,
+            "pageViews": 96,
+            "bounceVisit": 91,
+            "visitDuration": 38
+          },
+          {
+            "hour": "09:00",
+            "uniqueVisitors": 23,
+            "visits": 48,
+            "pageViews": 16,
+            "bounceVisit": 8,
+            "visitDuration": 25
+          },
+          {
+            "hour": "10:00",
+            "uniqueVisitors": 14,
+            "visits": 24,
+            "pageViews": 41,
+            "bounceVisit": 18,
+            "visitDuration": 60
+          },
+          {
+            "hour": "11:00",
+            "uniqueVisitors": 65,
+            "visits": 45,
+            "pageViews": 5,
+            "bounceVisit": 37,
+            "visitDuration": 4
+          },
+          {
+            "hour": "12:00",
+            "uniqueVisitors": 89,
+            "visits": 100,
+            "pageViews": 14,
+            "bounceVisit": 16,
+            "visitDuration": 33
+          },
+          {
+            "hour": "13:00",
+            "uniqueVisitors": 62,
+            "visits": 81,
+            "pageViews": 59,
+            "bounceVisit": 43,
+            "visitDuration": 92
+          },
+          {
+            "hour": "14:00",
+            "uniqueVisitors": 71,
+            "visits": 15,
+            "pageViews": 27,
+            "bounceVisit": 84,
+            "visitDuration": 78
+          },
+          {
+            "hour": "15:00",
+            "uniqueVisitors": 84,
+            "visits": 37,
+            "pageViews": 52,
+            "bounceVisit": 76,
+            "visitDuration": 18
+          },
+          {
+            "hour": "16:00",
+            "uniqueVisitors": 6,
+            "visits": 65,
+            "pageViews": 95,
+            "bounceVisit": 14,
+            "visitDuration": 23
+          },
+          {
+            "hour": "17:00",
+            "uniqueVisitors": 32,
+            "visits": 50,
+            "pageViews": 1,
+            "bounceVisit": 67,
+            "visitDuration": 21
+          },
+          {
+            "hour": "18:00",
+            "uniqueVisitors": 8,
+            "visits": 74,
+            "pageViews": 47,
+            "bounceVisit": 62,
+            "visitDuration": 2
+          },
+          {
+            "hour": "19:00",
+            "uniqueVisitors": 39,
+            "visits": 47,
+            "pageViews": 76,
+            "bounceVisit": 63,
+            "visitDuration": 63
+          },
+          {
+            "hour": "20:00",
+            "uniqueVisitors": 58,
+            "visits": 87,
+            "pageViews": 36,
+            "bounceVisit": 88,
+            "visitDuration": 95
+          },
+          {
+            "hour": "21:00",
+            "uniqueVisitors": 56,
+            "visits": 66,
+            "pageViews": 46,
+            "bounceVisit": 73,
+            "visitDuration": 71
+          },
+          {
+            "hour": "22:00",
+            "uniqueVisitors": 84,
+            "visits": 45,
+            "pageViews": 68,
+            "bounceVisit": 21,
+            "visitDuration": 30
+          },
+          {
+            "hour": "23:00",
+            "uniqueVisitors": 33,
+            "visits": 88,
+            "pageViews": 44,
+            "bounceVisit": 52,
+            "visitDuration": 68
+          }
+        ]
+      }
+    ]
+  }
+]
