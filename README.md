@@ -1,6 +1,5 @@
-## Get comprehensive analytics on your site!
+# Get comprehensive analytics on your site!
 Built using Next + Typescript + Express + MongoDB
-
 ## Installation
 
 This is a Dockerized application, and as a result, requires Docker and Docker compose installed.
